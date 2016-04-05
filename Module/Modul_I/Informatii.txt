@@ -1,6 +1,0 @@
-Modul: Aplicatia
-
-Membri grupa:
--Jitariuc Sebastian -> coordonator
--Tirel Cristian
--Vlad Minea
